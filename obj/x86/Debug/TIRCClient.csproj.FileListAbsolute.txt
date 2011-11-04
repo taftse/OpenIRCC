@@ -1,0 +1,10 @@
+C:\Users\Timothy\Documents\Visual Studio 2010\Projects\IRCServer\TIRCClient\bin\Debug\TIRCClient.exe
+C:\Users\Timothy\Documents\Visual Studio 2010\Projects\IRCServer\TIRCClient\bin\Debug\TIRCClient.pdb
+C:\Users\Timothy\Documents\Visual Studio 2010\Projects\IRCServer\TIRCClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Timothy\Documents\Visual Studio 2010\Projects\IRCServer\TIRCClient\obj\x86\Debug\TIRCClient.Properties.Resources.resources
+C:\Users\Timothy\Documents\Visual Studio 2010\Projects\IRCServer\TIRCClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Timothy\Documents\Visual Studio 2010\Projects\IRCServer\TIRCClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Timothy\Documents\Visual Studio 2010\Projects\IRCServer\TIRCClient\obj\x86\Debug\TIRCClient.exe
+C:\Users\Timothy\Documents\Visual Studio 2010\Projects\IRCServer\TIRCClient\obj\x86\Debug\TIRCClient.pdb
+C:\Users\Timothy\Documents\Visual Studio 2010\Projects\IRCServer\TIRCClient\obj\x86\Debug\TIRCClient.MainWindow.resources
+C:\Users\Timothy\Documents\Visual Studio 2010\Projects\IRCServer\TIRCClient\obj\x86\Debug\TIRCClient.NickNameDialog.resources
